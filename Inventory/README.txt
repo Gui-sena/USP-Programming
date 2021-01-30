@@ -1,4 +1,4 @@
-Estudante: Guilherme Mutschele Sena.
+This project simulates an inventory report in a usual store. Only in this report, the coding uses some design patterns to maximize the efficiency of the report.
 
 		Padrão Strategy - Definir uma família de algoritmos, encapsulá-los e fazer com que seja fácil trocar um deles por outro. 
 				O padrão permite variar o algoritmo independentemente dos clientes que o usam. Capture a Abstração em uma 
